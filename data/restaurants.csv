@@ -1,0 +1,200 @@
+1,The Spicy Pickle,Forest Hills,Deli,High,10:00,22:00
+2,The Roaming Rhino,Tribeca,Burgers,Medium,11:00,23:00
+3,The Wandering Whisk,Brooklyn Heights,Latin American,High,09:00,21:00
+4,The Saucy Seahorse,Midtown,Smoothies,Medium,10:00,22:00
+5,The Lucky Llama,Williamsburg,Pakistani,Medium,10:00,22:00
+6,The Rolling Doughnut,Clinton Hill,Pakistani,Low,09:00,22:00
+7,The Rusty Ladle,Long Island City,Greek,High,08:00,23:00
+8,The Roasted Rabbit,Fort Greene,New American,Medium,11:00,22:00
+9,The Grateful Grapefruit,Park Slope,Donuts,Medium,08:00,22:00
+10,The Jolly Jerk,Jackson Heights,Moroccan,High,10:00,23:00
+11,The Cheeky Chickpea,Chelsea,International,Medium,10:00,22:00
+12,The Happy Haddock,Cobble Hill,Greek,Medium,11:00,22:00
+13,The Cozy Carrot,Forest Hills,Deli,Low,08:00,21:00
+14,The Quirky Quail,Upper West Side,Tex-Mex,Medium,08:00,21:00
+15,The Zesty Zebra,SoHo,Moroccan,Low,08:00,22:00
+16,The Smiling Spud,Greenpoint,Taco,Medium,11:00,23:00
+17,The Bold Bison,Jackson Heights,Burgers,High,09:00,23:00
+18,The Daring Donut,Lower East Side,Brazilian,Low,09:00,23:00
+19,The Funky Flamingo,Forest Hills,Italian,Low,09:00,21:00
+20,The Mighty Muffin,DUMBO,Persian,High,10:00,23:00
+21,The Nifty Nutella,Forest Hills,French,Low,11:00,21:00
+22,The Peppery Pumpkin,Flushing,Deli,Medium,11:00,23:00
+23,The Savory Seagull,Williamsburg,Southwestern,High,10:00,21:00
+24,The Tasty Tuna,Astoria,New American,Medium,10:00,23:00
+25,The Wild Wolfberry,Upper West Side,Spanish,Low,08:00,21:00
+26,The Yummy Yellowtail,Greenpoint,Smoothies,High,10:00,23:00
+27,The Charming Chicken,Long Island City,Steak,High,10:00,21:00
+28,The Dreamy Dragonfruit,Clinton Hill,Southwestern,High,11:00,23:00
+29,The Friendly Fox,Jackson Heights,Nepalese,Medium,08:00,22:00
+30,The Gorgeous Gourd,Gowanus,Mongolian,High,10:00,22:00
+31,The Juicy Jackfruit,Forest Hills,Cuban,Medium,08:00,22:00
+32,The Lively Lobster,Greenwich Village,Moroccan,High,08:00,23:00
+33,The Nutty Nougat,Forest Hills,Taco,High,11:00,21:00
+34,The Perfect Pineapple,SoHo,Sushi,Medium,09:00,21:00
+35,The Radiant Raspberry,DUMBO,British,High,09:00,21:00
+36,The Sensational Snapper,Midtown,Peruvian,High,10:00,22:00
+37,The Trusty Tofu,Long Island City,Mongolian,High,10:00,22:00
+38,The Vibrant Vulture,Cobble Hill,Cajun & Creole,Low,10:00,21:00
+39,The Witty Watercress,Forest Hills,Hot Dogs,High,09:00,21:00
+40,The Ambitious Avocado,SoHo,Korean,High,08:00,23:00
+41,The Brazen Blueberry,Clinton Hill,Pub Food,Medium,11:00,21:00
+42,The Clever Coconut,Upper West Side,Korean,Low,09:00,23:00
+43,The Elegant Elk,Williamsburg,French,High,08:00,22:00
+44,The Fearless Flounder,Tribeca,Vegan,Low,08:00,23:00
+45,The Generous Gingerbread,Prospect Heights,Barbecue,Medium,08:00,23:00
+46,The Honorable Herring,Flushing,Persian,High,08:00,22:00
+47,The Intrepid Iguana,Gowanus,Donuts,Low,10:00,23:00
+48,The Jazzy Jaffa,Tribeca,Latin American,Medium,08:00,22:00
+49,The Kind Kombucha,Flushing,Taco,Medium,11:00,21:00
+50,The Luminous Limeade,Upper West Side,New American,Medium,09:00,21:00
+51,The Mischievous Macadamia,East Village,Mexican,Medium,08:00,22:00
+52,The Noble Nectarine,Carroll Gardens,Sandwiches,High,10:00,22:00
+53,The Optimistic Oyster,DUMBO,Portuguese,Low,11:00,23:00
+54,The Proud Peanut,Red Hook,British,Medium,09:00,21:00
+55,The Quaint Quinoa,Flushing,Vegetarian,High,10:00,22:00
+56,The Radiant Raisin,East Village,Greek,Low,10:00,23:00
+57,The Serene Sardine,Bay Ridge,German,High,11:00,21:00
+58,The Tranquil Tapioca,Chelsea,Greek,Medium,08:00,23:00
+59,The Unstoppable Udon,Midtown,Kosher,Low,11:00,23:00
+60,The Vivacious Vinegar,Flushing,Vegetarian,Low,11:00,22:00
+61,The Wise Water Buffalo,Lower East Side,Dim Sum,Medium,10:00,21:00
+62,The Zen Zucchini,Long Island City,Persian,Low,08:00,23:00
+63,The Angry Alpaca,Upper West Side,Vietnamese,Low,11:00,21:00
+64,The Bitter Banana,Cobble Hill,Vietnamese,Medium,11:00,21:00
+65,The Cautious Caribou,Rego Park,Breakfast,Medium,09:00,21:00
+66,The Delicious Deer,Lower East Side,Thai,High,08:00,22:00
+67,The Energetic Emu,Chelsea,Kosher,Medium,09:00,23:00
+68,The Festive Fajita,Park Slope,Kosher,Low,10:00,22:00
+69,The Glowing Gummy Bear,Upper West Side,Tapas,Low,11:00,23:00
+70,The Hasty Honey,Chelsea,Cuban,Low,11:00,21:00
+71,The Inquisitive Iced Tea,DUMBO,Pan-Asian,High,10:00,21:00
+72,The Jaded Jujube,Clinton Hill,Sandwiches,Low,09:00,22:00
+73,The Kinetic Kumquat,East Village,Filipino,Low,09:00,21:00
+74,The Lively Lemonade,Gowanus,Seafood,Low,08:00,21:00
+75,The Melodic Mango,Forest Hills,Nepalese,Medium,10:00,21:00
+76,The Nutritious Nacho,Rego Park,Polish,High,08:00,23:00
+77,The Outgoing Octopus,Greenwich Village,Seafood,Low,09:00,23:00
+78,The Playful Peach,Flushing,Southwestern,Medium,09:00,21:00
+79,The Quirky Quark,Inwood,Nepalese,Low,08:00,21:00
+80,The Refreshing Rhubarb,Harlem,Taco,Medium,10:00,22:00
+81,The Silly Squid,SoHo,Kosher,Low,10:00,23:00
+82,The Tenacious Taro,Inwood,British,High,11:00,23:00
+83,The Unique Ugli Fruit,Fort Greene,Ethiopian,Medium,11:00,22:00
+84,The Valiant Vanilla,East Village,Indonesian,Medium,10:00,21:00
+85,The Wiggly Watermelon,Sunset Park,Malaysian,Medium,09:00,21:00
+86,The Xenial Xigua,Greenwich Village,Deli,High,08:00,22:00
+87,The Yodeling Yak,Greenpoint,Indonesian,Medium,09:00,22:00
+88,The Zany Zinfandel,Chelsea,Portuguese,Low,11:00,22:00
+89,The Alluring Acai,Astoria,Donuts,High,08:00,23:00
+90,The Brave Beet,Prospect Heights,Filipino,Low,11:00,22:00
+91,The Captivating Cranberry,Flushing,Cuban,High,10:00,21:00
+92,The Daring Date,Greenpoint,Vegetarian,Low,10:00,22:00
+93,The Enchanting Eggplant,East Village,American,High,09:00,21:00
+94,The Flamboyant Fig,Park Slope,Peruvian,Low,08:00,22:00
+95,The Glistening Grape,Sunset Park,Deli,Medium,11:00,21:00
+96,The Humble Honeydew,Fort Greene,Burgers,Medium,08:00,23:00
+97,The Illuminating Ivy,Flushing,Indonesian,Low,09:00,23:00
+98,The Joyful Jalapeño,Rego Park,Eastern European,Low,10:00,22:00
+99,The Kooky Kiwi,Midtown,Salad,High,10:00,23:00
+100,The Luminous Litchi,Brooklyn Heights,Pizza,High,11:00,23:00
+101,The Mischievous Mushroom,Tribeca,Cuban,Low,10:00,21:00
+102,The Nimble Nut,Park Slope,Deli,Low,11:00,22:00
+103,The Optimistic Onion,Gowanus,Ethiopian,Low,09:00,22:00
+104,The Powerful Pine Nut,Harlem,Mediterranean,Medium,09:00,22:00
+105,The Quirky Quiche,Chelsea,Russian,Low,10:00,22:00
+106,The Radiant Rhubarb,Astoria,Pakistani,High,11:00,21:00
+107,The Sassy Sorbet,Chelsea,Pakistani,Medium,09:00,23:00
+108,The Terrific Tangerine,Upper West Side,German,Low,11:00,22:00
+109,The Ultimate Umami,Chelsea,Sushi,Low,09:00,22:00
+110,The Vain Vanilla Bean,Rego Park,Seafood,Medium,10:00,21:00
+111,The Whimsical Wheatgrass,Midtown,Salad,Medium,09:00,22:00
+112,The X-traordinary Xoconostle,Midtown,Mediterranean,Medium,11:00,23:00
+113,The Youthful Yellow Pepper,Jackson Heights,Laotian,High,08:00,22:00
+114,The Zesty Zamboni,Tribeca,Sushi,Medium,09:00,22:00
+115,The Angelic Angel Food,Long Island City,Tapas,Medium,08:00,22:00
+116,The Bubbly Biscuit,Prospect Heights,Brazilian,High,08:00,22:00
+117,The Courageous Croissant,Harlem,Indian,Medium,11:00,22:00
+118,The Dashing Danish,East Village,Indonesian,Low,08:00,22:00
+119,The Enthusiastic Eclair,Midtown,Eastern European,Low,11:00,23:00
+120,The Fluffy Flan,Rego Park,Tex-Mex,Medium,10:00,21:00
+121,The Generous Ginger Snap,Clinton Hill,Mongolian,Medium,09:00,23:00
+122,The Happy Hotcake,Rego Park,Middle Eastern,Low,08:00,22:00
+123,The Impressive Ice,Forest Hills,American,High,10:00,23:00
+124,The Spicy Pickle,Bay Ridge,Pan-Asian,Medium,08:00,23:00
+125,The Roaming Rhino,Williamsburg,Salad,Medium,11:00,23:00
+126,The Wandering Whisk,Midtown,Korean,High,09:00,23:00
+127,The Saucy Seahorse,Forest Hills,Southern,High,09:00,23:00
+128,The Lucky Llama,Tribeca,Brazilian,High,11:00,23:00
+129,The Rolling Doughnut,Park Slope,International,Low,09:00,21:00
+130,The Rusty Ladle,Sunset Park,Filipino,High,11:00,22:00
+131,The Roasted Rabbit,Midtown,British,Low,10:00,23:00
+132,The Grateful Grapefruit,Clinton Hill,Pub Food,Low,10:00,22:00
+133,The Jolly Jerk,Greenpoint,Peruvian,High,08:00,21:00
+134,The Cheeky Chickpea,Jackson Heights,Salad,High,09:00,22:00
+135,The Happy Haddock,Flushing,Thai,Medium,09:00,21:00
+136,The Cozy Carrot,Tribeca,Spanish,Medium,08:00,23:00
+137,The Quirky Quail,East Village,American,Low,09:00,23:00
+138,The Zesty Zebra,Fort Greene,Sandwiches,Low,08:00,23:00
+139,The Smiling Spud,Harlem,Indonesian,Low,10:00,23:00
+140,The Bold Bison,DUMBO,Filipino,Medium,10:00,22:00
+141,The Daring Donut,SoHo,Mexican,High,09:00,21:00
+142,The Funky Flamingo,Brooklyn Heights,Portuguese,High,11:00,21:00
+143,The Mighty Muffin,Greenwich Village,Taco,Medium,11:00,22:00
+144,The Nifty Nutella,Financial District,Hot Dogs,Low,10:00,23:00
+145,The Peppery Pumpkin,Flushing,Spanish,Low,08:00,23:00
+146,The Savory Seagull,Lower East Side,Spanish,Medium,08:00,22:00
+147,The Tasty Tuna,Greenpoint,Cantonese,High,11:00,21:00
+148,The Wild Wolfberry,Jackson Heights,Polish,High,08:00,21:00
+149,The Yummy Yellowtail,Williamsburg,Russian,High,10:00,22:00
+150,The Charming Chicken,Long Island City,Vietnamese,Low,08:00,22:00
+151,The Dreamy Dragonfruit,Tribeca,Tex-Mex,High,11:00,22:00
+152,The Friendly Fox,Lower East Side,Eastern European,High,10:00,23:00
+153,The Gorgeous Gourd,Fort Greene,Vegan,Medium,10:00,23:00
+154,The Juicy Jackfruit,Rego Park,Seafood,Low,08:00,21:00
+155,The Lively Lobster,Lower East Side,Spanish,High,09:00,21:00
+156,The Nutty Nougat,Long Island City,Spanish,High,10:00,21:00
+157,The Perfect Pineapple,Washington Heights,Cuban,Low,09:00,23:00
+158,The Radiant Raspberry,Rego Park,Moroccan,Low,11:00,23:00
+159,The Sensational Snapper,Tribeca,Italian,High,11:00,22:00
+160,The Trusty Tofu,Midtown,Nepalese,Medium,11:00,21:00
+161,The Vibrant Vulture,Midtown,Southern,Low,09:00,23:00
+162,The Witty Watercress,Upper East Side,Filipino,Low,08:00,22:00
+163,The Ambitious Avocado,Lower East Side,Pakistani,Medium,11:00,23:00
+164,The Brazen Blueberry,Forest Hills,International,Low,08:00,23:00
+165,The Clever Coconut,Sunset Park,Portuguese,High,09:00,21:00
+166,The Elegant Elk,Financial District,Southwestern,High,10:00,22:00
+167,The Fearless Flounder,Financial District,Sushi,Medium,08:00,23:00
+168,The Generous Gingerbread,Fort Greene,Brazilian,High,11:00,23:00
+169,The Honorable Herring,Park Slope,American,Medium,11:00,23:00
+170,The Intrepid Iguana,Greenpoint,New American,Low,09:00,23:00
+171,The Jazzy Jaffa,Cobble Hill,Taco,High,09:00,22:00
+172,The Kind Kombucha,East Village,Sandwiches,Medium,11:00,21:00
+173,The Luminous Limeade,Upper West Side,Eastern European,Medium,08:00,22:00
+174,The Mischievous Macadamia,Midtown,Pub Food,High,08:00,21:00
+175,The Noble Nectarine,Flushing,Italian,Low,08:00,22:00
+176,The Optimistic Oyster,Bay Ridge,Salad,Medium,11:00,23:00
+177,The Proud Peanut,East Village,Indian,Medium,10:00,22:00
+178,The Quaint Quinoa,DUMBO,Sandwiches,Medium,10:00,21:00
+179,The Radiant Raisin,Astoria,Pakistani,Medium,10:00,22:00
+180,The Serene Sardine,Harlem,Thai,High,10:00,22:00
+181,The Tranquil Tapioca,Gowanus,Burgers,High,10:00,23:00
+182,The Unstoppable Udon,Inwood,Sandwiches,Medium,09:00,21:00
+183,The Vivacious Vinegar,Brooklyn Heights,Tex-Mex,Medium,09:00,23:00
+184,The Wise Water Buffalo,Gowanus,Caribbean,Medium,09:00,23:00
+185,The Zen Zucchini,Fort Greene,Nepalese,Low,10:00,23:00
+186,The Angry Alpaca,Midtown,German,Medium,10:00,22:00
+187,The Bitter Banana,Midtown,Sushi,High,11:00,22:00
+188,The Cautious Caribou,Long Island City,Sandwiches,Medium,11:00,22:00
+189,The Delicious Deer,Rego Park,French,Medium,09:00,22:00
+190,The Energetic Emu,Upper East Side,Korean,High,08:00,21:00
+191,The Festive Fajita,Tribeca,Mexican,Low,09:00,21:00
+192,The Glowing Gummy Bear,Sunset Park,Salad,High,11:00,23:00
+193,The Hasty Honey,Upper West Side,New American,Low,10:00,21:00
+194,The Inquisitive Iced Tea,Lower East Side,Sushi,Low,11:00,22:00
+195,The Jaded Jujube,Financial District,Hot Dogs,Low,11:00,23:00
+196,The Kinetic Kumquat,Inwood,Dim Sum,Low,08:00,21:00
+197,The Lively Lemonade,Jackson Heights,Malaysian,High,11:00,23:00
+198,The Melodic Mango,Tribeca,Russian,Low,09:00,23:00
+199,The Nutritious Nacho,Bay Ridge,Laotian,Medium,09:00,21:00
+200,The Outgoing Octopus,Fort Greene,Pub Food,High,08:00,22:00
